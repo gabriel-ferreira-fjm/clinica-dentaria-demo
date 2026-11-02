@@ -1,0 +1,1655 @@
+{
+  "header": {
+    "home": "Accueil",
+    "about": "À Propos de Nous",
+    "services": "Services",
+    "team": "Équipe",
+    "prices": "Tarifs",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contacts": "Contacts",
+    "bookAppointment": "Prendre Rendez-vous",
+    "location": "Adresse fictive — Portugal",
+    "phone": "000 000 000",
+    "schedule": "Lun - Ven : 9h - 19h | Sam : 9h - 13h",
+    "servicesDropdown": {
+      "consultaDiagnostico": "Consultation et Diagnostic",
+      "prevencaoHigiene": "Prévention & Hygiène",
+      "esteticaOrtodontia": "Esthétique et Orthodontie",
+      "implantesProteses": "Implants et Prothèses",
+      "tratamentosEspecializados": "Traitements Spécialisés",
+      "espacoKids": "Espace Enfants"
+    },
+    "blogDropdown": {
+      "higieneOral": "Hygiène Buccale",
+      "estetica": "Esthétique",
+      "odontopediatria": "Odontopédiatrie",
+      "implantes": "Implants"
+    }
+  },
+  "hero": {
+    "welcome": "Bienvenue sur notre site !",
+    "title": "Clinique Dentaire",
+    "titleHighlight": "Equipa Horizonte",
+    "subtitle": "Un sourire sain commence par des soins spécialisés !",
+    "description": "Nous combinons expérience, technologie moderne et attention personnalisée pour offrir les meilleurs soins dentaires à toute la famille.",
+    "bookNow": "Prendre Rendez-vous Maintenant",
+    "viewServices": "Voir les Services",
+    "happyPatients": "Patients Heureux",
+    "averageRating": "Note Moyenne",
+    "professionalCare": "Soins Professionnels",
+    "yearsExperience": "+15 ans d'expérience"
+  },
+  "about": {
+    "tag": "À Propos de Nous",
+    "title": "Nous prenons soin de votre sourire avec",
+    "titleHighlight": "dévouement",
+    "description": "La Clinique Dentaire Equipa Horizonte combine expérience, technologie moderne et attention personnalisée pour offrir les meilleurs soins dentaires. Dirigée par le Equipa Horizonte, notre équipe garantit des traitements efficaces et abordables pour toute la famille.",
+    "features": {
+      "experience": {
+        "title": "Expérience Prouvée",
+        "description": "Plus de 15 ans de dévouement à la santé bucco-dentaire"
+      },
+      "team": {
+        "title": "Équipe Spécialisée",
+        "description": "Professionnels qualifiés et en formation constante"
+      },
+      "care": {
+        "title": "Soins Personnalisés",
+        "description": "Traitements adaptés aux besoins de chaque patient"
+      }
+    },
+    "highlights": {
+      "technology": "Technologie de pointe",
+      "environment": "Environnement accueillant et moderne",
+      "prices": "Prix abordables",
+      "family": "Soins pour toute la famille",
+      "emergency": "Urgences dentaires",
+      "payment": "Facilités de paiement"
+    },
+    "stats": {
+      "patients": "Patients",
+      "years": "Ans"
+    }
+  },
+  "emergency": {
+    "title": "Urgences Dentaires",
+    "subtitle": "Les situations d'urgence nécessitent une attention immédiate. Si vous présentez l'un de ces symptômes, contactez-nous immédiatement.",
+    "callNow": "Appeler Maintenant : 000 000 000",
+    "symptoms": {
+      "1": "Mal de dents intense",
+      "2": "Gonflement facial",
+      "3": "Saignement persistant",
+      "4": "Dent cassée ou expulsée",
+      "5": "Abcès dentaire"
+    },
+    "whatToDo": {
+      "1": {
+        "title": "Restez calme",
+        "subtitle": "L'anxiété peut aggraver la douleur"
+      },
+      "2": {
+        "title": "Contactez-nous immédiatement",
+        "subtitle": "Nous avons des créneaux réservés pour les urgences"
+      },
+      "3": {
+        "title": "Suivez les instructions",
+        "subtitle": "Nous vous guiderons jusqu'à votre arrivée"
+      },
+      "title": "Que faire en cas d'urgence"
+    }
+  },
+  "services": {
+    "tag": "Nos Services",
+    "title": "Traitements dentaires",
+    "titleHighlight": "complets",
+    "description": "Nous offrons une gamme complète de services dentaires pour prendre soin de la santé bucco-dentaire de toute votre famille, avec une technologie moderne et des professionnels qualifiés.",
+    "categories": {
+      "consultation": {
+        "title": "Consultation et Diagnostic",
+        "description": "Évaluation complète de la santé bucco-dentaire",
+        "services": [
+          "Consultation dentaire",
+          "Radiographies numériques",
+          "Urgences dentaires"
+        ]
+      },
+      "prevention": {
+        "title": "Prévention & Hygiène",
+        "description": "Soins préventifs essentiels",
+        "services": [
+          "Détartrage",
+          "Polissage dentaire",
+          "Dentisterie préventive"
+        ]
+      },
+      "aesthetics": {
+        "title": "Esthétique et Orthodontie",
+        "description": "Sourire parfait et aligné",
+        "services": [
+          "Blanchiment dentaire",
+          "Appareils dentaires métalliques",
+          "Orthodontie invisible"
+        ]
+      },
+      "implants": {
+        "title": "Implants et Prothèses",
+        "description": "Solutions pour les dents manquantes",
+        "services": [
+          "Implants dentaires",
+          "Prothèses fixes",
+          "Prothèses amovibles"
+        ]
+      },
+      "specialized": {
+        "title": "Traitements Spécialisés",
+        "description": "Soins avancés et spécifiques",
+        "services": [
+          "Endodontie",
+          "Chirurgie buccale",
+          "Parodontie"
+        ]
+      },
+      "pediatric": {
+        "title": "Odontopédiatrie",
+        "description": "Soins dentaires pour enfants",
+        "services": [
+          "Consultation pédiatrique",
+          "Scellements de sillons",
+          "Éducation à l'hygiène bucco-dentaire"
+        ]
+      }
+    },
+    "tmj": {
+      "title": "Traitement des Dysfonctions Temporo-Mandibulaires",
+      "description": "Traitement spécialisé pour les douleurs de l'articulation de la mâchoire, les maux de tête et la tension musculaire liés aux problèmes dentaires.",
+      "learnMore": "En Savoir Plus",
+      "quickConsultations": "Consultations Rapides",
+      "guaranteedResults": "Résultats Garantis"
+    },
+    "estetica": {
+      "meta": {
+        "title": "Esthétique et Orthodontie | Equipa Horizonte - Clinique Dentaire",
+        "description": "Blanchiment dentaire, appareils métalliques et orthodontie invisible. Transformez votre sourire à la Clinique Equipa Horizonte."
+      },
+      "hero": {
+        "backLink": "Retour aux Services",
+        "badge": "Transformez Votre Sourire",
+        "title": {
+          "part1": "Esthétique et",
+          "part2": "Orthodontie"
+        },
+        "subtitle": "Des dents plus blanches et parfaitement alignées. Découvrez les solutions esthétiques qui transformeront votre confiance.",
+        "rating": "Note 4.9/5",
+        "transformed": "+200 sourires transformés",
+        "ctaButton": "Prendre rendez-vous pour une évaluation",
+        "callButton": "Appeler Maintenant",
+        "imageAlt": "Consultation dentaire - esthétique et orthodontie",
+        "ratingSubtitle": "+200 sourires transformés"
+      },
+      "servicesSection": {
+        "title": "Traitements Esthétiques Disponibles",
+        "subtitle": "Choisissez le traitement idéal pour obtenir le sourire de vos rêves.",
+        "duration": "Durée",
+        "cta": "En Savoir Plus"
+      },
+      "services": {
+        "branqueamento": {
+          "title": "Blanchiment Dentaire",
+          "description": "Traitement professionnel pour éclaircir les dents et redonner de l'éclat à votre sourire de manière sûre et efficace.",
+          "features": {
+            "1": "Jusqu'à 8 teintes plus claires",
+            "2": "Technique LED avancée",
+            "3": "Sans dommage pour l'émail"
+          },
+          "duration": "1-2 heures",
+          "tag": "Le Plus Populaire"
+        },
+        "metalicos": {
+          "title": "Appareils Métalliques",
+          "description": "Orthodontie traditionnelle avec des bagues métalliques de haute qualité pour une correction efficace de l'alignement dentaire.",
+          "features": {
+            "1": "Correction complète",
+            "2": "Résistants et durables",
+            "3": "Suivi mensuel",
+            "4": "Résultats définitifs"
+          },
+          "duration": "12-24 mois",
+          "tag": "Efficacité Prouvée"
+        },
+        "invisivel": {
+          "title": "Orthodontie Invisible",
+          "description": "Aligneurs transparents amovibles qui corrigent votre sourire de manière discrète et confortable.",
+          "features": {
+            "1": "Pratiquement invisibles",
+            "2": "Amovibles pour manger",
+            "3": "Sans restrictions alimentaires",
+            "4": "Moins de consultations"
+          },
+          "duration": "6-18 mois",
+          "tag": "Discret"
+        }
+      },
+      "durationLabel": "Durée",
+      "learnMore": "En Savoir Plus",
+      "transformations": {
+        "title": "Transformations Réelles",
+        "subtitle": "Découvrez les changements que nos traitements peuvent apporter.",
+        "before": "Avant",
+        "after": "Après",
+        "items": {
+          "1": {
+            "before": "Dents jaunies",
+            "after": "Sourire éclatant et naturel"
+          },
+          "2": {
+            "before": "Dents mal alignées",
+            "after": "Occlusion parfaite"
+          },
+          "3": {
+            "before": "Espaces entre les dents",
+            "after": "Sourire harmonieux"
+          },
+          "4": {
+            "before": "Dents chevauchées",
+            "after": "Alignement impeccable"
+          }
+        }
+      },
+      "finalCta": {
+        "title": "Prêt à transformer votre sourire ?",
+        "subtitle": "Prenez rendez-vous pour une évaluation gratuite et découvrez le traitement idéal pour vous.",
+        "ctaButton": "Évaluation Gratuite",
+        "callButton": "Appeler : 000 000 000"
+      },
+      "beforeAfterSection": {
+        "title": "Transformations Réelles",
+        "subtitle": "Découvrez les changements que nos traitements peuvent apporter.",
+        "before": "Avant",
+        "after": "Après"
+      },
+      "beforeAfter": {
+        "1": {
+          "before": "Dents jaunies",
+          "after": "Sourire éclatant et naturel"
+        },
+        "2": {
+          "before": "Dents mal alignées",
+          "after": "Occlusion parfaite"
+        },
+        "3": {
+          "before": "Espaces entre les dents",
+          "after": "Sourire harmonieux"
+        },
+        "4": {
+          "before": "Dents chevauchées",
+          "after": "Alignement impeccable"
+        }
+      }
+    },
+    "implantes": {
+      "meta": {
+        "title": "Implants et Prothèses Dentaires | Equipa Horizonte - Clinique Dentaire",
+        "description": "Implants dentaires, prothèses fixes et amovibles. Solutions complètes pour les dents manquantes à la Clinique Equipa Horizonte."
+      },
+      "hero": {
+        "backLink": "Retour aux Services",
+        "badge": "Solutions Définitives",
+        "title": {
+          "part1": "Implants et ",
+          "part2": "Prothèses"
+        },
+        "subtitle": "Retrouvez votre capacité à mâcher, parler et sourire avec confiance. Solutions modernes et durables pour les dents manquantes.",
+        "stats": {
+          "1": {
+            "value": "95%",
+            "label": "Taux de Réussite"
+          },
+          "2": {
+            "value": "20+",
+            "label": "Années d'Expérience"
+          },
+          "3": {
+            "value": "1000+",
+            "label": "Implants Placés"
+          }
+        },
+        "ctaButton": "Consultation d'Évaluation",
+        "callButton": "Appeler Maintenant",
+        "imageAlt": "Implants et prothèses dentaires à la Clinique Equipa Horizonte",
+        "badge2": {
+          "title": "Service Spécialisé",
+          "subtitle": "Focus sur votre confort"
+        }
+      },
+      "servicesSection": {
+        "title": "Solutions Pour les Dents Manquantes",
+        "subtitle": "Nous offrons plusieurs options pour restaurer votre sourire, adaptées à vos besoins."
+      },
+      "services": {
+        "implantes": {
+          "title": "Implants Dentaires",
+          "description": "Solution permanente et naturelle pour remplacer les dents perdues. Les implants sont des racines artificielles en titane qui soutiennent des couronnes dentaires.",
+          "features": {
+            "1": "Durabilité à vie",
+            "2": "Apparence naturelle",
+            "3": "Préserve l'os",
+            "4": "Fonction masticatoire complète"
+          },
+          "price": "À partir de 800€"
+        },
+        "fixas": {
+          "title": "Prothèses Fixes",
+          "description": "Ponts et couronnes fixes cimentés sur dents naturelles ou implants, offrant stabilité et confort maximum.",
+          "features": {
+            "1": "Non amovibles",
+            "2": "Haute esthétique",
+            "3": "Confortables",
+            "4": "Résistantes"
+          },
+          "price": "À partir de 400€"
+        },
+        "removiveis": {
+          "title": "Prothèses Amovibles",
+          "description": "Solutions amovibles flexibles et économiques pour remplacer plusieurs dents, avec des matériaux de haute qualité.",
+          "features": {
+            "1": "Économiques",
+            "2": "Faciles à nettoyer",
+            "3": "Adaptables",
+            "4": "Esthétiques"
+          },
+          "price": "À partir de 300€"
+        }
+      },
+      "processSection": {
+        "title": "Le Processus de Pose d'Implants",
+        "subtitle": "Un traitement bien planifié pour des résultats exceptionnels."
+      },
+      "process": {
+        "01": {
+          "step": "01",
+          "title": "Évaluation Initiale",
+          "description": "Examen complet avec radiographies et scanner pour évaluer la structure osseuse."
+        },
+        "02": {
+          "step": "02",
+          "title": "Planification Numérique",
+          "description": "Création d'un plan de traitement personnalisé avec technologie 3D."
+        },
+        "03": {
+          "step": "03",
+          "title": "Chirurgie de Pose",
+          "description": "Procédure minimalement invasive pour la pose de l'implant."
+        },
+        "04": {
+          "step": "04",
+          "title": "Période de Cicatrisation",
+          "description": "3-6 mois pour l'ostéointégration complète de l'implant à l'os."
+        },
+        "05": {
+          "step": "05",
+          "title": "Pose de la Couronne",
+          "description": "Installation de la couronne définitive, personnalisée pour votre sourire."
+        }
+      },
+      "faqSection": {
+        "title": "Questions Fréquemment Posées"
+      },
+      "faqs": {
+        "1": {
+          "q": "Les implants font-ils mal ?",
+          "a": "La procédure est réalisée sous anesthésie locale, étant pratiquement indolore. Le post-opératoire implique un léger inconfort contrôlé par des médicaments."
+        },
+        "2": {
+          "q": "Combien de temps dure un implant ?",
+          "a": "Avec les soins appropriés, un implant peut durer toute la vie. Le taux de réussite est supérieur à 95%."
+        },
+        "3": {
+          "q": "Puis-je avoir des implants si j'ai peu d'os ?",
+          "a": "Oui, il existe des techniques de greffe osseuse et des implants spéciaux pour les cas de résorption osseuse."
+        }
+      },
+      "finalCta": {
+        "title": "Retrouvez Votre Sourire Complet",
+        "subtitle": "Prenez rendez-vous pour une évaluation gratuite et découvrez la meilleure solution pour votre cas.",
+        "ctaButton": "Prendre RDV Évaluation Gratuite",
+        "callButton": "Appeler : 000 000 000"
+      }
+    },
+    "prevencao": {
+      "meta": {
+        "title": "Prévention et Hygiène Buccale | Equipa Horizonte - Clinique Dentaire",
+        "description": "Services de prévention et hygiène buccale incluant détartrage, polissage dentaire et dentisterie préventive."
+      },
+      "hero": {
+        "backLink": "Retour à la page des Services",
+        "badge": "Soins Préventifs",
+        "title": {
+          "part1": "Prévention &",
+          "part2": "Hygiène"
+        },
+        "subtitle": "La meilleure forme de traitement est la prévention. Maintenez votre santé buccale à jour avec des soins spécialisés.",
+        "ctaButton": "Prendre RDV Nettoyage",
+        "callButton": "Appeler Maintenant",
+        "imageAlt": "Hygiéniste dentaire réalisant un nettoyage professionnel sur un patient à la Clinique Dentaire Equipa Horizonte",
+        "badge2": "100% Indolore",
+        "duration": "30–45 min",
+        "durationLabel": "Temps moyen"
+      },
+      "servicesSection": {
+        "title": "Services d'Hygiène Professionnelle",
+        "subtitle": "Traitements essentiels pour maintenir votre santé buccale."
+      },
+      "services": {
+        "destartarizacao": {
+          "title": "Détartrage",
+          "description": "Élimination professionnelle du tartre et de la plaque bactérienne accumulés, essentielle pour prévenir les maladies gingivales.",
+          "benefits": {
+            "1": "Élimine le tartre durci",
+            "2": "Prévient la gingivite",
+            "3": "Améliore l'haleine",
+            "4": "Rend les dents plus brillantes"
+          }
+        },
+        "polimento": {
+          "title": "Polissage Dentaire",
+          "description": "Traitement qui laisse la surface des dents lisse et brillante, rendant difficile l'adhérence de la plaque bactérienne.",
+          "benefits": {
+            "1": "Surface plus lisse",
+            "2": "Dents plus brillantes",
+            "3": "Réduit les taches",
+            "4": "Sensation de nettoyage profond"
+          }
+        },
+        "preventiva": {
+          "title": "Dentisterie Préventive",
+          "description": "Ensemble de pratiques et traitements axés sur la prévention des problèmes dentaires avant qu'ils ne surviennent.",
+          "benefits": {
+            "1": "Application de fluor",
+            "2": "Scellements dentaires",
+            "3": "Éducation à l'hygiène buccale",
+            "4": "Contrôles réguliers"
+          }
+        }
+      },
+      "tips": {
+        "escovagem": {
+          "title": "Brossage Régulier",
+          "description": "Brossez-vous les dents au moins 2 fois par jour, pendant 2 minutes"
+        },
+        "fio": {
+          "title": "Fil Dentaire Quotidien",
+          "description": "Utilisez le fil dentaire une fois par jour pour nettoyer entre les dents"
+        },
+        "elixir": {
+          "title": "Bain de Bouche",
+          "description": "Complétez l'hygiène avec un bain de bouche antibactérien"
+        },
+        "consultas": {
+          "title": "Consultations Régulières",
+          "description": "Consultez le dentiste tous les 6 mois pour un nettoyage professionnel"
+        }
+      },
+      "finalCta": {
+        "title": "Prévenez les Problèmes Futurs",
+        "subtitle": "La prévention est le meilleur investissement pour votre santé buccale.",
+        "ctaButton": "Prendre RDV Nettoyage",
+        "callButton": "Appeler : 000 000 000"
+      }
+    },
+    "odontopediatria": {
+      "meta": {
+        "title": "Odontopédiatrie - Dentiste pour Enfants | Equipa Horizonte - Clinique Dentaire",
+        "description": "Odontopédiatrie spécialisée pour les enfants. Consultations pédiatriques, scellements et éducation à l'hygiène buccale à la Clinique Equipa Horizonte."
+      },
+      "hero": {
+        "backLink": "Retour à la page des Services",
+        "badge": "Pour les Plus Petits",
+        "title": {
+          "part1": "Odonto",
+          "part2": "pédiatrie"
+        },
+        "subtitle": "Soins dentaires spéciaux pour les enfants, dans un environnement accueillant et amusant. Nous créons des sourires heureux dès le plus jeune âge !",
+        "stats": {
+          "number": "+500 enfants soignés",
+          "description": "Ils adorent tous venir chez le dentiste !"
+        },
+        "ctaButton": "Prendre Rendez-vous",
+        "callButton": "Appeler Maintenant",
+        "badge2": {
+          "text": "Environnement Amusant"
+        },
+        "badge3": {
+          "title": "Suivi",
+          "subtitle": "avec soin et patience"
+        }
+      },
+      "servicesSection": {
+        "title": "Services pour Enfants",
+        "subtitle": "Traitements spécialisés et adaptés à chaque étape de l'enfance.",
+        "cta": "Prendre Rendez-vous"
+      },
+      "services": {
+        "consulta": {
+          "title": "Consultation Pédiatrique",
+          "description": "Première consultation spéciale pour les enfants, axée sur la création d'une expérience positive et l'établissement d'une relation de confiance avec le dentiste.",
+          "features": {
+            "1": "Environnement accueillant",
+            "2": "Examen doux et amusant",
+            "3": "Conseils aux parents",
+            "4": "Sans traumatismes"
+          }
+        },
+        "selantes": {
+          "title": "Scellements Dentaires",
+          "description": "Application de scellements protecteurs dans les sillons des dents pour prévenir les caries, en particulier sur les molaires définitives.",
+          "features": {
+            "1": "Protection durable",
+            "2": "Procédure indolore",
+            "3": "Application rapide",
+            "4": "Prévention des caries"
+          }
+        },
+        "educacao": {
+          "title": "Éducation à l'Hygiène Buccale",
+          "description": "Programme éducatif amusant pour enseigner aux enfants l'importance du brossage et des soins dentaires.",
+          "features": {
+            "1": "Techniques de brossage",
+            "2": "Alimentation saine",
+            "3": "Matériel éducatif",
+            "4": "Implication des parents"
+          }
+        }
+      },
+      "ageGuideSection": {
+        "title": "Guide par Âge",
+        "subtitle": "Soins recommandés pour chaque étape de la croissance."
+      },
+      "ageGuide": {
+        "infant": {
+          "age": "0-2 ans",
+          "title": "Petite Enfance",
+          "tips": {
+            "1": "Première visite à 1 an",
+            "2": "Nettoyage avec une gaze humide",
+            "3": "Éviter le sucre dans le biberon"
+          }
+        },
+        "preschool": {
+          "age": "3-5 ans",
+          "title": "Préscolaire",
+          "tips": {
+            "1": "Brossage supervisé",
+            "2": "Dentifrice au fluor (grain de riz)",
+            "3": "Visites semestrielles"
+          }
+        },
+        "school": {
+          "age": "6-12 ans",
+          "title": "Âge Scolaire",
+          "tips": {
+            "1": "Application de scellements",
+            "2": "Orthodontie préventive",
+            "3": "Indépendance dans le brossage"
+          }
+        },
+        "teen": {
+          "age": "13+ ans",
+          "title": "Adolescence",
+          "tips": {
+            "1": "Soins des appareils",
+            "2": "Prévention des traumatismes",
+            "3": "Esthétique du sourire"
+          }
+        }
+      },
+      "funFactsSection": {
+        "title": "Le saviez-vous... 🤔"
+      },
+      "funFacts": {
+        "1": "Les enfants ont 20 dents de lait",
+        "2": "Brosser 2 minutes, 2 fois par jour",
+        "3": "Le fromage et le lait renforcent les dents",
+        "4": "L'eau est la meilleure boisson pour les dents"
+      },
+      "parentTipsSection": {
+        "title": "Conseils pour les Parents"
+      },
+      "parentTips": {
+        "fun": {
+          "title": "Rendre le brossage amusant",
+          "description": "Utilisez des chansons, des applications ou des brosses colorées pour rendre la routine plus attrayante."
+        },
+        "example": {
+          "title": "Donner l'exemple",
+          "description": "Brossez-vous les dents avec votre enfant pour qu'il apprenne l'importance de l'hygiène bucco-dentaire."
+        },
+        "fears": {
+          "title": "Éviter les peurs",
+          "description": "N'utilisez pas le dentiste comme une menace. Parlez positivement des visites au cabinet."
+        },
+        "rewards": {
+          "title": "Récompenser les bonnes habitudes",
+          "description": "Créez un tableau de récompenses pour motiver le brossage régulier."
+        }
+      },
+      "finalCta": {
+        "title": "Le premier pas vers un sourire sain ! 😊",
+        "subtitle": "Prenez rendez-vous pour la première consultation de votre enfant et laissez-nous prendre soin de son sourire dès le plus jeune âge.",
+        "ctaButton": "Prendre Rendez-vous en Pédiatrie",
+        "callButton": "Appeler : 000 000 000"
+      }
+    },
+    "especializados": {
+      "meta": {
+        "title": "Traitements Spécialisés | Equipa Horizonte - Clinique Dentaire",
+        "description": "Endodontie, chirurgie buccale et parodontie. Traitements avancés et spécialisés à la Clinique Equipa Horizonte."
+      },
+      "hero": {
+        "backLink": "Retour aux Services",
+        "badge": "Soins Avancés",
+        "title": {
+          "part1": "Traitements",
+          "part2": "Spécialisés"
+        },
+        "subtitle": "Lorsque le problème est plus complexe, notre équipe spécialisée est prête à offrir des solutions avancées et efficaces.",
+        "ctaButton": "Prendre Rendez-vous",
+        "urgencyButton": "Urgences",
+        "imageAlt": "Traitements dentaires spécialisés à la Clinique Equipa Horizonte.",
+        "badge2": {
+          "title": "Spécialistes",
+          "subtitle": "Équipe qualifiée"
+        }
+      },
+      "servicesSection": {
+        "title": "Spécialités Disponibles",
+        "subtitle": "Traitements avancés pour résoudre les problèmes les plus complexes.",
+        "alerts": "Signes d'Alerte"
+      },
+      "services": {
+        "endodontia": {
+          "title": "Endodontie",
+          "description": "Traitement de canal pour sauver les dents dont la pulpe dentaire est infectée ou endommagée, éliminant la douleur et préservant la dent naturelle.",
+          "symptoms": {
+            "1": "Douleur intense et persistante",
+            "2": "Sensibilité au chaud/froid",
+            "3": "Gencive gonflée",
+            "4": "Noircissement de la dent"
+          },
+          "features": {
+            "1": "Techniques microscopiques",
+            "2": "Anesthésie avancée",
+            "3": "Taux de réussite élevé",
+            "4": "Préservation de la dent"
+          }
+        },
+        "cirurgia": {
+          "title": "Chirurgie Buccale",
+          "description": "Procédures chirurgicales spécialisées comprenant des extractions complexes, l'extraction des dents de sagesse et des chirurgies correctrices.",
+          "symptoms": {
+            "1": "Dents incluses",
+            "2": "Dents de sagesse problématiques",
+            "3": "Kystes ou lésions",
+            "4": "Préparation pour les implants"
+          },
+          "features": {
+            "1": "Techniques minimalement invasives",
+            "2": "Sédation disponible",
+            "3": "Récupération rapide",
+            "4": "Équipe expérimentée"
+          }
+        },
+        "periodontologia": {
+          "title": "Parodontie",
+          "description": "Traitement spécialisé des maladies des gencives, de la gingivite légère à la parodontite avancée.",
+          "symptoms": {
+            "1": "Gencives rouges ou gonflées",
+            "2": "Saignement lors du brossage",
+            "3": "Mauvaise haleine persistante",
+            "4": "Rétraction gingivale"
+          },
+          "features": {
+            "1": "Détartrage et surfaçage radiculaire",
+            "2": "Chirurgie parodontale",
+            "3": "Régénération osseuse",
+            "4": "Entretien préventif"
+          }
+        }
+      },
+      "emergencySymptoms": {
+        "1": "Douleur dentaire intense",
+        "2": "Gonflement facial",
+        "3": "Saignement qui ne s'arrête pas",
+        "4": "Dent cassée ou expulsée",
+        "5": "Abcès dentaire"
+      },
+      "emergency": {
+        "title": "Urgences Dentaires",
+        "subtitle": "Les situations d'urgence nécessitent une attention immédiate. Si vous présentez l'un de ces symptômes, contactez-nous immédiatement.",
+        "callNow": "Appeler Maintenant : 000 000 000",
+        "whatToDo": {
+          "1": {
+            "title": "Restez calme",
+            "subtitle": "L'anxiété peut aggraver la douleur"
+          },
+          "2": {
+            "title": "Contactez-nous immédiatement",
+            "subtitle": "Nous avons des créneaux d'urgence réservés"
+          },
+          "3": {
+            "title": "Suivez les instructions",
+            "subtitle": "Nous vous donnerons des conseils jusqu'à votre arrivée"
+          },
+          "title": "Que faire en cas d'urgence"
+        }
+      },
+      "finalCta": {
+        "title": "Besoin d'un Traitement Spécialisé ?",
+        "subtitle": "Notre équipe de spécialistes est prête à vous aider. Prenez rendez-vous pour une évaluation.",
+        "ctaButton": "Prendre Rendez-vous",
+        "callButton": "Appeler : 000 000 000"
+      }
+    },
+    "espacoKids": {
+      "title": "Espace Enfants",
+      "subtitle": "Zone Enfants",
+      "heroTitle": "Espace Enfants",
+      "heroTitleMain": "Espace",
+      "heroTitleAccent": "Enfants",
+      "heroDescription": "Un environnement spécialement créé pour que les plus petits se sentent à l'aise et heureux lors de leur visite chez le dentiste.",
+      "controls": {
+        "play": "Lire",
+        "pause": "Pause",
+        "rewind": "Retour 10s",
+        "forward": "Avancer 10s",
+        "loop": "Boucle",
+        "loopActive": "Boucle Active"
+      },
+      "features": {
+        "title": "Qu'est-ce qui rend notre Espace Enfants spécial ?",
+        "item1": {
+          "title": "Environnement Coloré et Accueillant",
+          "description": "Décoration pensée pour les enfants avec des couleurs vibrantes et des personnages amusants."
+        },
+        "item2": {
+          "title": "Équipements Adaptés",
+          "description": "Chaises et équipements spéciaux pour le confort des plus petits."
+        },
+        "item3": {
+          "title": "Équipe Spécialisée",
+          "description": "Professionnels formés en odontopédiatrie et expérimentés avec les enfants."
+        },
+        "item4": {
+          "title": "Activités Ludiques",
+          "description": "Jeux et jouets pour rendre l'attente plus agréable."
+        }
+      },
+      "benefits": {
+        "title": "Bénéfices pour Votre Enfant",
+        "item1": "Expérience positive dès la première visite",
+        "item2": "Création de saines habitudes d'hygiène bucco-dentaire",
+        "item3": "Prévention des traumatismes et des peurs du dentiste",
+        "item4": "Suivi personnalisé de la croissance dentaire"
+      },
+      "back": "Retour",
+      "emojiCards": {
+        "item1": "Dents Saines",
+        "item2": "Sourires Heureux",
+        "item3": "Divertissement Garanti",
+        "item4": "Sans Peur"
+      },
+      "fun": {
+        "item1": {
+          "title": "Prix Amusants",
+          "description": "Tous les enfants reçoivent une surprise après la consultation !"
+        },
+        "item2": {
+          "title": "Certificats de Courage",
+          "description": "Nous reconnaissons la bravoure des petits patients !"
+        },
+        "item3": {
+          "title": "Service Attentionné",
+          "description": "Équipe dédiée à créer des souvenirs positifs !"
+        }
+      },
+      "cta": {
+        "title": "Prenez rendez-vous pour l'Espace Enfants !",
+        "description": "Permettez à votre enfant de découvrir notre espace et d'avoir une expérience dentaire positive.",
+        "button": "Prendre Rendez-vous",
+        "call": "000 000 000"
+      }
+    }
+  },
+  "consultadiagnostico": {
+    "meta": {
+      "title": "Consultation et Diagnostic | Equipa Horizonte - Clinique Dentaire",
+      "description": "Consultations dentaires complètes, radiographies numériques et soins d'urgences dentaires avec un diagnostic précis."
+    },
+    "hero": {
+      "backLink": "Retour à la page des Services",
+      "badge": "Diagnostic Professionnel",
+      "badge2": "Diagnostic Précis",
+      "title": {
+        "part1": "Consultation &",
+        "part2": "Diagnostic"
+      },
+      "subtitle": "Diagnostic précis et plan de traitement personnalisé pour prendre soin de votre santé buccale.",
+      "ctaButton": "Prendre Rendez-vous",
+      "callButton": "Appeler Maintenant",
+      "imageAlt": "Médecin dentiste réalisant une consultation de diagnostic à la Clinique Dentaire Equipa Horizonte",
+      "duration": "45–60 min",
+      "durationLabel": "Temps moyen"
+    },
+    "servicesSection": {
+      "title": "Services de Consultation et Diagnostic",
+      "subtitle": "Évaluation complète pour identifier et traiter les problèmes dentaires."
+    },
+    "consultation": {
+      "title": "Consultation Dentaire",
+      "description": "Évaluation complète de votre santé buccale avec un diagnostic précis et un plan de traitement personnalisé.",
+      "benefits": {
+        "1": "Examen clinique complet",
+        "2": "Diagnostic détaillé",
+        "3": "Plan de traitement personnalisé",
+        "4": "Clarification des questions"
+      }
+    },
+    "radiology": {
+      "title": "Radiographies Numériques",
+      "description": "Technologie de pointe pour un diagnostic précis avec moins d'exposition aux radiations.",
+      "benefits": {
+        "1": "Images de haute qualité",
+        "2": "Moins de radiation",
+        "3": "Résultats immédiats",
+        "4": "Diagnostic plus précis"
+      }
+    },
+    "emergency": {
+      "title": "Urgences Dentaires",
+      "description": "Soins rapides pour les situations d'urgence dentaire, soulageant la douleur et résolvant les problèmes urgents.",
+      "benefits": {
+        "1": "Soins prioritaires",
+        "2": "Soulagement immédiat de la douleur",
+        "3": "Disponibilité étendue",
+        "4": "Résolution rapide"
+      }
+    },
+    "tips": {
+      "regular": {
+        "title": "Contrôles Réguliers",
+        "description": "Consultez le dentiste tous les 6 mois pour la prévention et le diagnostic précoce"
+      },
+      "symptoms": {
+        "title": "Attention aux Symptômes",
+        "description": "N'ignorez pas la douleur, le saignement ou la sensibilité des dents"
+      },
+      "history": {
+        "title": "Historique Médical",
+        "description": "Informez le dentiste de vos conditions de santé et médicaments"
+      },
+      "questions": {
+        "title": "Posez des Questions",
+        "description": "N'hésitez pas à demander des informations sur votre diagnostic et traitement"
+      }
+    },
+    "finalCta": {
+      "title": "Prenez Soin de Votre Santé Buccale",
+      "subtitle": "Prenez rendez-vous et obtenez un diagnostic complet.",
+      "ctaButton": "Prendre Rendez-vous",
+      "callButton": "Appeler : 000 000 000"
+    }
+  },
+  "prices": {
+    "tag": "Tableau des Prix",
+    "title": "Traitements",
+    "titleHighlight": "accessibles",
+    "titleEnd": "pour tous",
+    "description": "Nous offrons des prix compétitifs et des réductions spéciales pour les membres. Prendre soin de votre sourire n'a jamais été aussi accessible.",
+    "table": {
+      "treatment": "Traitement",
+      "regularPrice": "Prix Normal",
+      "memberPrice": "Prix Membre"
+    },
+    "treatments": {
+      "consultation": "Consultation dentaire",
+      "cleaning": "Détartrage",
+      "whitening": "Blanchiment dentaire",
+      "braces": "Appareil métallique (par arcade)",
+      "implant": "Implant dentaire",
+      "prosthesis": "Prothèse acrylique (3 dents)"
+    },
+    "membership": {
+      "title": "Devenez Membre et Économisez",
+      "description": "Avec notre plan membre, vous bénéficiez de réductions exclusives sur tous les traitements, de consultations de routine gratuites et de priorité dans la prise de rendez-vous.",
+      "benefits": {
+        "freeConsultations": "Consultations de routine gratuites",
+        "discounts": "Jusqu'à 60% de réduction sur les traitements",
+        "priority": "Prise de rendez-vous prioritaire",
+        "flexiblePayment": "Paiement flexible"
+      },
+      "startingFrom": "À partir de",
+      "perMonth": "par mois",
+      "learnMore": "En Savoir Plus"
+    },
+    "note": "* Les prix affichés sont indicatifs et peuvent varier selon la complexité du traitement. Contactez-nous pour un devis personnalisé."
+  },
+  "team": {
+    "tag": "Notre Équipe",
+    "title": "Professionnels",
+    "titleHighlight": "dévoués",
+    "titleEnd": "à votre sourire",
+    "description": "Profil fictif utilisé pour présenter le composant équipe. Il ne représente pas un professionnel réel.",
+    "member": {
+      "name": "Professionnel de démonstration",
+      "role": "Professionnel de démonstration",
+      "specialty": "Contenu de démonstration",
+      "description": "Profil fictif utilisé pour présenter le composant équipe. Il ne représente pas un professionnel réel.",
+      "achievements": [
+        "Identité fictive",
+        "Contenu de démonstration",
+        "Aucun lien avec une clinique réelle"
+      ],
+      "quote": "Profil fictif utilisé pour présenter le composant équipe. Il ne représente pas un professionnel réel."
+    }
+  },
+  "amenities": {
+    "tag": "Commodités",
+    "title": "Nous pensons à votre",
+    "titleHighlight": "confort",
+    "description": "Notre clinique offre diverses commodités pour rendre votre visite la plus agréable possible.",
+    "items": {
+      "wifi": {
+        "title": "Wi-Fi Gratuit",
+        "description": "Restez connecté pendant votre visite"
+      },
+      "parking": {
+        "title": "Parking",
+        "description": "Parking gratuit à proximité"
+      },
+      "climate": {
+        "title": "Climatisation",
+        "description": "Environnement climatisé pour votre confort"
+      },
+      "waitingRoom": {
+        "title": "Salle d'Attente Confortable",
+        "description": "Espace moderne et accueillant pendant l'attente"
+      },
+      "kids": {
+        "title": "Espace Enfants",
+        "description": "Zone dédiée pour divertir les plus petits"
+      },
+      "card": {
+        "title": "Paiement par Carte",
+        "description": "Nous acceptons toutes les cartes de débit et crédit"
+      },
+      "transport": {
+        "title": "Transports en Commun",
+        "description": "Accès facile par les transports en commun"
+      },
+      "accessibility": {
+        "title": "Accessibilité",
+        "description": "Accès pour les personnes à mobilité réduite"
+      },
+      "tv": {
+        "title": "TV en Salle d'Attente",
+        "description": "Divertissement pendant l'attente"
+      },
+      "coffee": {
+        "title": "Café et Eau",
+        "description": "Boissons gratuites pour votre confort"
+      },
+      "payment": {
+        "title": "Multiples Modes de Paiement",
+        "description": "Carte, MB Way, virement et espèces"
+      }
+    }
+  },
+  "appointment": {
+    "tag": "Prise de Rendez-vous",
+    "title": "Prenez votre",
+    "titleHighlight": "rendez-vous",
+    "description": "Simulation terminée. Aucune demande de rendez-vous n’a été envoyée.",
+    "benefits": {
+      "response": "Réponse sous 24 heures",
+      "flexible": "Horaires flexibles",
+      "personalized": "Service personnalisé"
+    },
+    "directContact": {
+      "title": "Contact Direct",
+      "phone": "000 000 000",
+      "email": "contacto@example.invalid"
+    },
+    "form": {
+      "fullName": "Nom Complet",
+      "fullNamePlaceholder": "Votre nom complet",
+      "email": "E-mail",
+      "emailPlaceholder": "contacto@example.invalid",
+      "phone": "Téléphone",
+      "phonePlaceholder": "06 12 34 56 78",
+      "consultationType": "Type de Consultation",
+      "consultationTypePlaceholder": "Sélectionnez le type de consultation",
+      "preferredDate": "Date Souhaitée",
+      "preferredTime": "Horaire Souhaité",
+      "preferredTimePlaceholder": "Sélectionnez un horaire",
+      "preferredDentist": "Dentiste Souhaité",
+      "noPreference": "Sans préférence",
+      "submit": "Prendre Rendez-vous",
+      "privacyNote": "Vos données sont protégées par notre politique de confidentialité"
+    },
+    "consultationTypes": {
+      "general": "Consultation Générale",
+      "cleaning": "Détartrage",
+      "orthodontics": "Orthodontie",
+      "implants": "Implants",
+      "whitening": "Blanchiment",
+      "emergency": "Urgence",
+      "other": "Autre"
+    },
+    "toast": {
+      "title": "Contenu de démonstration",
+      "description": "Simulation terminée. Aucune demande de rendez-vous n’a été envoyée."
+    }
+  },
+  "testimonials": {
+    "tag": "Témoignages",
+    "title": "Ce que disent nos",
+    "titleHighlight": "patients",
+    "description": "Témoignage fictif",
+    "stats": {
+      "averageRating": "Note Moyenne",
+      "happyPatients": "Patients Satisfaits",
+      "satisfactionRate": "Taux de Satisfaction",
+      "yearsExperience": "Années d'Expérience"
+    },
+    "reviews": {
+      "review1": {
+        "name": "Profil fictif 1",
+        "role": "Témoignage fictif",
+        "text": "Exemple de texte pour présenter une carte de témoignage. Il ne s’agit pas d’un avis réel."
+      },
+      "review2": {
+        "name": "Profil fictif 2",
+        "role": "Témoignage fictif",
+        "text": "Exemple de texte pour présenter une carte de témoignage. Il ne s’agit pas d’un avis réel."
+      },
+      "review3": {
+        "name": "Profil fictif 3",
+        "role": "Témoignage fictif",
+        "text": "Exemple de texte pour présenter une carte de témoignage. Il ne s’agit pas d’un avis réel."
+      },
+      "review4": {
+        "name": "Profil fictif 4",
+        "role": "Témoignage fictif",
+        "text": "Exemple de texte pour présenter une carte de témoignage. Il ne s’agit pas d’un avis réel."
+      },
+      "review5": {
+        "name": "Profil fictif 5",
+        "role": "Témoignage fictif",
+        "text": "Exemple de texte pour présenter une carte de témoignage. Il ne s’agit pas d’un avis réel."
+      }
+    }
+  },
+  "blog": {
+    "tag": "Blog",
+    "title": "Conseils de",
+    "titleHighlight": "Santé Bucco-dentaire",
+    "viewAll": "Voir Tous les Articles",
+    "readMore": "Lire la Suite",
+    "readTime": "lecture",
+    "back": "Retour au Blog",
+    "share": "Partager",
+    "articles": {
+      "article1": {
+        "title": "Comment maintenir une bonne hygiène bucco-dentaire quotidienne",
+        "excerpt": "Découvrez les meilleures pratiques pour vous brosser les dents correctement et garder votre bouche saine au quotidien.",
+        "category": "Hygiène Buccale"
+      },
+      "article2": {
+        "title": "Tout sur le blanchiment dentaire",
+        "excerpt": "Découvrez les différents types de blanchiment et celui qui convient le mieux à votre cas.",
+        "category": "Esthétique"
+      },
+      "article3": {
+        "title": "Quand emmener les enfants chez le dentiste ?",
+        "excerpt": "Découvrez l'âge idéal pour la première consultation et comment préparer les plus petits à la visite.",
+        "category": "Odontopédiatrie"
+      },
+      "article4": {
+        "title": "Implants dentaires : guide complet",
+        "excerpt": "Tout ce que vous devez savoir sur les implants dentaires, de la procédure à la récupération.",
+        "category": "Implants"
+      }
+    },
+    "higiene": {
+      "title": "Comment maintenir une bonne hygiène bucco-dentaire quotidienne",
+      "description": "Habitudes pratiques pour des dents et des gencives plus saines : technique de brossage, fil dentaire, bain de bouche, alimentation et quand consulter le dentiste.",
+      "toc": {
+        "why": "Pourquoi c'est important",
+        "daily": "Routine quotidienne (étape par étape)",
+        "technique": "Technique de brossage (guide rapide)",
+        "floss": "Fil dentaire et nettoyage interdentaire",
+        "diet": "Alimentation et habitudes",
+        "warning": "Signes d'alerte",
+        "faq": "Mythes et questions fréquemment posées",
+        "title": "Dans cet article",
+        "note": "Besoin d'un plan personnalisé ? Nous pouvons évaluer votre routine et recommander les meilleurs produits et techniques."
+      },
+      "category": "Hygiène Buccale",
+      "readTime": "Lecture de 5 min",
+      "lead": "De petites habitudes quotidiennes font une grande différence. Voici un guide pratique pour garder vos dents et vos gencives saines — à la maison et entre les rendez-vous.",
+      "imageAlt": "Hygiène bucco-dentaire",
+      "ctaButton": "Prendre Rendez-vous",
+      "keyTakeawaysTitle": "Points clés",
+      "keyTakeaway1": "Brossez 2 fois par jour (2 min) + nettoyage interdentaire",
+      "keyTakeaway2": "Réduisez les collations et les boissons sucrées",
+      "keyTakeaway3": "Ne sautez pas les nettoyages professionnels",
+      "whyTitle": "Pourquoi c'est important",
+      "whyText1": "La santé bucco-dentaire va au-delà de l'esthétique. Les maladies des gencives et les caries peuvent causer de la douleur, la perte de dents et sont associées à des conditions systémiques telles que les maladies cardiovasculaires et le diabète.",
+      "whyText2": "La bonne nouvelle ? La prévention est simple avec les bonnes habitudes. Voici ce qui fait vraiment la différence.",
+      "dailyTitle": "Routine quotidienne (étape par étape)",
+      "daily": {
+        "step1": {
+          "title": "Matin et soir : brosser pendant 2 minutes",
+          "text": "Utilisez du dentifrice au fluor et une brosse à poils souples. Couvrez toutes les surfaces — externe, interne et masticatoire."
+        },
+        "step2": {
+          "title": "Nettoyage interdentaire (1 fois par jour)",
+          "text": "Utilisez du fil dentaire ou des brossettes interdentaires. Idéalement le soir, avant le brossage."
+        },
+        "step3": {
+          "title": "Optionnel : bain de bouche",
+          "text": "Utilisez uniquement si recommandé par votre dentiste. Ne remplace pas le brossage ni le nettoyage interdentaire."
+        },
+        "step4": {
+          "title": "Hydratation et moins de sucre",
+          "text": "Buvez de l'eau tout au long de la journée. Évitez de grignoter entre les repas, surtout des aliments sucrés."
+        }
+      },
+      "techniqueTitle": "Technique de brossage (guide rapide)",
+      "angleLabel": "Angle :",
+      "tech1": "Tenez la brosse à 45° par rapport à la ligne des gencives (là où la dent rencontre la gencive).",
+      "movementLabel": "Mouvement :",
+      "tech2": "Faites des mouvements courts et doux — évitez de brosser fort.",
+      "coverageLabel": "Couverture :",
+      "tech3": "Brossez les surfaces externe, interne et masticatoire de toutes les dents.",
+      "tongueLabel": "Langue :",
+      "tech4": "Brossez doucement la langue (ou utilisez un gratte-langue) pour réduire les bactéries et améliorer l'haleine.",
+      "flossSectionTitle": "Fil dentaire et nettoyage interdentaire",
+      "flossSectionText": "Les caries et les problèmes de gencives commencent souvent entre les dents. Si le fil est difficile, les brossettes interdentaires peuvent être une excellente alternative — demandez à votre dentiste la taille idéale.",
+      "flossHowTitle": "Comment utiliser le fil dentaire (en 3 étapes)",
+      "flossHow1": "Glissez doucement entre les dents et formez un 'C' autour de la dent.",
+      "flossHow2": "Faites des mouvements de haut en bas, en nettoyant les deux côtés de la dent.",
+      "flossHow3": "Utilisez une section propre du fil pour chaque espace interdentaire.",
+      "dietTitle": "Alimentation et habitudes",
+      "diet": {
+        "goodTitle": "Bonnes habitudes",
+        "good1": "Buvez de l'eau tout au long de la journée.",
+        "good2": "Préférez des collations moins sucrées (fruits secs, fromage, yaourt).",
+        "good3": "Mâchez du chewing-gum sans sucre après les repas (si approprié) pour stimuler la salive.",
+        "limitTitle": "Réduisez",
+        "limit1": "Collations et boissons sucrées fréquentes.",
+        "limit2": "Boire des sodas/jus petit à petit sur une longue période (exposition acide constante).",
+        "limit3": "Tabac (grand risque de maladie des gencives et de taches)."
+      },
+      "warningTitle": "Signes d'alerte",
+      "warningSubtitle": "Si vous remarquez l'un de ces signes, envisagez de prendre rendez-vous pour une évaluation :",
+      "warning": {
+        "1": "Saignement des gencives lors du brossage ou de l'utilisation du fil dentaire",
+        "2": "Mauvaise haleine persistante",
+        "3": "Sensibilité ou douleur dentaire",
+        "4": "Gencives gonflées ou rétraction gingivale",
+        "5": "Douleur lors de la mastication ou inconfort de la mâchoire"
+      },
+      "faqTitle": "Mythes et questions fréquemment posées",
+      "faq": {
+        "q1": "Si mes gencives saignent, dois-je arrêter d'utiliser le fil dentaire ?",
+        "a1": "Généralement non. Le saignement est souvent un signe d'inflammation. Utilisez le fil avec douceur et constance ; si cela persiste pendant 1 à 2 semaines, prenez rendez-vous.",
+        "q2": "Le bain de bouche est-il nécessaire ?",
+        "a2": "Pas toujours. Il peut aider dans des situations spécifiques (gingivite, risque élevé de caries). La base est le brossage + le nettoyage interdentaire.",
+        "q3": "Brosse à dents électrique : cela en vaut-il la peine ?",
+        "a3": "Pour beaucoup de gens, oui — cela améliore la constance et l'élimination de la plaque. La technique reste importante."
+      },
+      "finalCta": {
+        "title": "Vous voulez un plan d'hygiène bucco-dentaire personnalisé ?",
+        "text": "Nous pouvons évaluer la santé de vos gencives, le risque de caries et recommander des produits et techniques adaptés à vous."
+      }
+    },
+    "implantes": {
+      "title": "Implants dentaires : guide complet",
+      "description": "Tout ce que vous devez savoir sur les implants dentaires, de la procédure à la récupération. Guide complet sur l'implantologie.",
+      "toc": {
+        "what": "Qu'est-ce qu'un implant",
+        "advantages": "Avantages",
+        "eligibility": "Qui peut en bénéficier",
+        "procedure": "La procédure",
+        "recovery": "Récupération",
+        "success": "Taux de réussite",
+        "cost": "Coûts",
+        "title": "Dans cet article",
+        "note": "Vous voulez retrouver votre sourire ? Prenez rendez-vous pour une évaluation gratuite afin de savoir si les implants vous conviennent."
+      },
+      "category": "Implants",
+      "readTime": "10 min de lecture",
+      "lead": "Les implants dentaires sont la solution la plus moderne et la plus efficace pour remplacer les dents perdues. Ils fonctionnent comme des racines artificielles qui soutiennent des couronnes, des ponts ou des prothèses, offrant des résultats naturels et durables.",
+      "imageAlt": "Implants Dentaires",
+      "ctaButton": "Prendre Rendez-vous",
+      "takeaways": {
+        "title": "Points clés",
+        "one": "Taux de réussite supérieur à 95%",
+        "two": "Peuvent durer toute la vie avec des soins appropriés",
+        "three": "Préservent l'os maxillaire et les dents adjacentes"
+      },
+      "whatTitle": "Qu'est-ce qu'un implant dentaire ?",
+      "whatText": "Un implant dentaire est une petite vis en titane qui est insérée chirurgicalement dans l'os maxillaire ou mandibulaire. Le titane est un matériau biocompatible, ce qui signifie que le corps l'accepte et que l'os se développe autour de lui, créant une base solide pour la nouvelle dent.",
+      "parts": {
+        "implant": {
+          "title": "Implant",
+          "text": "Vis en titane insérée dans l'os"
+        },
+        "abutment": {
+          "title": "Pilier",
+          "text": "Pièce de connexion entre l'implant et la couronne"
+        },
+        "crown": {
+          "title": "Couronne",
+          "text": "Dent artificielle visible"
+        }
+      },
+      "advantagesTitle": "Avantages des implants dentaires",
+      "advantages": {
+        "1": "Aspect et sensation naturels",
+        "2": "Durabilité - peuvent durer toute la vie avec des soins appropriés",
+        "3": "Préservent l'os maxillaire",
+        "4": "N'affectent pas les dents adjacentes",
+        "5": "Permettent de manger et de parler normalement",
+        "6": "Ne nécessitent pas de retrait pour le nettoyage",
+        "7": "Améliorent l'estime de soi et la qualité de vie"
+      },
+      "eligibilityTitle": "Qui peut recevoir des implants ?",
+      "eligibilityText1": "La plupart des adultes en bonne santé générale peuvent recevoir des implants dentaires. Cependant, une évaluation minutieuse est nécessaire pour déterminer si vous êtes un bon candidat.",
+      "eligibilityText2": "Les facteurs pouvant affecter l'éligibilité comprennent :",
+      "eligibility": {
+        "1": "Quantité et qualité de l'os disponible",
+        "2": "Santé générale et conditions médicales (diabète, ostéoporose)",
+        "3": "Habitudes comme le tabagisme",
+        "4": "Hygiène bucco-dentaire",
+        "5": "Médicaments en cours d'utilisation"
+      },
+      "procedureTitle": "Comment se déroule la procédure ?",
+      "procedure": {
+        "phase1": {
+          "title": "Phase 1 : Évaluation et planification",
+          "text": "Le dentiste effectue des examens cliniques et radiographiques détaillés, y compris un scanner 3D, pour évaluer l'os et planifier la position idéale de l'implant."
+        },
+        "phase2": {
+          "title": "Phase 2 : Pose de l'implant",
+          "text": "Sous anesthésie locale, l'implant est inséré dans l'os. La procédure est généralement indolore. Une dent provisoire peut être posée le jour même (mise en charge immédiate) dans certains cas."
+        },
+        "phase3": {
+          "title": "Phase 3 : Ostéointégration",
+          "text": "Pendant 3 à 6 mois, l'os s'intègre à l'implant. Cette période est cruciale pour le succès à long terme."
+        },
+        "phase4": {
+          "title": "Phase 4 : Pose de la couronne définitive",
+          "text": "Après la cicatrisation, le pilier et la couronne définitive sont posés, fabriqués sur mesure pour s'harmoniser parfaitement avec vos dents naturelles."
+        }
+      },
+      "recoveryTitle": "Récupération et soins",
+      "recoveryText": "La récupération initiale dure de quelques jours à une semaine. Pendant cette période :",
+      "recovery": {
+        "1": "Il peut y avoir un certain gonflement et un léger inconfort",
+        "2": "Prenez les médicaments prescrits comme indiqué",
+        "3": "Évitez les aliments durs dans la zone opérée",
+        "4": "Maintenez une bonne hygiène bucco-dentaire",
+        "5": "Évitez de fumer et l'alcool"
+      },
+      "successTitle": "Taux de réussite",
+      "successText": "Les implants dentaires ont un taux de réussite supérieur à 95 % lorsqu'ils sont posés par des professionnels expérimentés et avec des soins appropriés. Avec un entretien régulier, ils peuvent durer toute la vie.",
+      "costTitle": "Combien coûtent les implants ?",
+      "costText": "Le coût varie en fonction du nombre d'implants, du type de couronne et des procédures supplémentaires nécessaires (comme une greffe osseuse). Nous proposons des options de financement pour rendre le traitement accessible.",
+      "finalCta": {
+        "title": "Vous voulez retrouver votre sourire ?",
+        "text": "Prenez rendez-vous pour une évaluation gratuite afin de savoir si les implants dentaires sont la solution idéale pour vous."
+      }
+    },
+    "estetica": {
+      "title": "Tout sur le blanchiment dentaire",
+      "description": "Découvrez les différents types de blanchiment dentaire et celui qui vous convient le mieux. Guide complet sur l'esthétique dentaire.",
+      "toc": {
+        "causes": "Qu'est-ce qui cause le jaunissement",
+        "types": "Types de blanchiment",
+        "safety": "Sécurité",
+        "aftercare": "Soins après le traitement",
+        "duration": "Durée des résultats",
+        "faq": "Questions fréquemment posées",
+        "title": "Dans cet article",
+        "note": "Vous voulez un sourire plus blanc ? Prenez rendez-vous pour une évaluation afin de découvrir le meilleur type de blanchiment pour vous."
+      },
+      "category": "Esthétique",
+      "readTime": "7 min de lecture",
+      "lead": "Le blanchiment dentaire est l'une des procédures esthétiques les plus demandées dans les cliniques dentaires. Un sourire plus blanc peut augmenter considérablement la confiance en soi et améliorer l'apparence générale du visage.",
+      "imageAlt": "Blanchiment dentaire",
+      "ctaButton": "Prendre Rendez-vous",
+      "takeaways": {
+        "title": "Points clés",
+        "one": "Le blanchiment professionnel est sûr et efficace",
+        "two": "Les résultats peuvent durer de 1 à 3 ans",
+        "three": "Consultez toujours un professionnel qualifié"
+      },
+      "causesTitle": "Qu'est-ce qui cause le jaunissement des dents ?",
+      "causesText": "Les dents peuvent jaunir pour diverses raisons au fil du temps. Comprendre les causes aide à prévenir et à choisir le traitement le plus approprié.",
+      "causes": {
+        "food": {
+          "title": "Aliments et boissons",
+          "text": "Café, thé, vin rouge et sodas avec colorants"
+        },
+        "tobacco": {
+          "title": "Tabac",
+          "text": "Le tabagisme est l'une des principales causes de taches sur les dents"
+        },
+        "age": {
+          "title": "Âge",
+          "text": "L'émail s'use naturellement, révélant la dentine plus jaune"
+        },
+        "medication": {
+          "title": "Médicaments",
+          "text": "Certains antibiotiques et traitements peuvent causer une décoloration"
+        },
+        "hygiene": {
+          "title": "Hygiène inadéquate",
+          "text": "Accumulation de plaque et de tartre"
+        }
+      },
+      "typesTitle": "Types de blanchiment dentaire",
+      "types": {
+        "office": {
+          "title": "1. Blanchiment au cabinet",
+          "text": "Réalisé par le dentiste, il utilise des produits avec une concentration plus élevée d'agents blanchissants, offrant des résultats visibles en une seule séance. C'est la méthode la plus rapide et la plus efficace.",
+          "duration": "Durée : 1 à 2 heures",
+          "results": "Résultats : Jusqu'à 8 teintes plus claires",
+          "safety": "Sécurité : Surveillé par un professionnel"
+        },
+        "home": {
+          "title": "2. Blanchiment à domicile supervisé",
+          "text": "Le dentiste fabrique des gouttières personnalisées et fournit le gel blanchissant pour une utilisation à domicile. C'est une option plus économique et confortable, bien que les résultats mettent plus de temps à apparaître.",
+          "duration": "Durée : 2 à 4 semaines de traitement",
+          "application": "Application : Quelques heures par jour ou pendant la nuit",
+          "advantage": "Avantage : Vous pouvez faire des retouches si nécessaire"
+        },
+        "combined": {
+          "title": "3. Blanchiment combiné",
+          "text": "Combine une séance au cabinet avec un traitement d'entretien à domicile, offrant le meilleur des deux méthodes : des résultats rapides et durables."
+        }
+      },
+      "safetyTitle": "Le blanchiment est-il sûr ?",
+      "safetyText": "Oui, lorsqu'il est réalisé ou supervisé par un dentiste qualifié. Les produits utilisés en clinique sont sûrs et testés. Il peut y avoir une certaine sensibilité temporaire, qui disparaît après le traitement.",
+      "aftercareTitle": "Soins après le blanchiment",
+      "aftercare": {
+        "1": "Évitez les aliments et boissons à forte coloration pendant les premières 48 heures",
+        "2": "Ne fumez pas pendant la période de traitement",
+        "3": "Maintenez une bonne hygiène bucco-dentaire",
+        "4": "Faites des visites régulières chez le dentiste pour l'entretien",
+        "5": "Envisagez des traitements de retouche tous les 6 à 12 mois"
+      },
+      "durationTitle": "Combien de temps durent les résultats ?",
+      "durationText": "Les résultats peuvent durer de 1 à 3 ans, selon les habitudes alimentaires, l'hygiène bucco-dentaire et le mode de vie. Des traitements d'entretien périodiques aident à prolonger l'effet.",
+      "faqTitle": "Questions fréquemment posées",
+      "faq": {
+        "q1": "Le blanchiment abîme-t-il l'émail des dents ?",
+        "a1": "Lorsqu'il est réalisé par un professionnel et avec une indication appropriée, le blanchiment est sûr. Il peut y avoir une sensibilité temporaire, mais cela ne devrait pas endommager l'émail.",
+        "q2": "Puis-je faire un blanchiment avec des restaurations (plombages/couronnes) ?",
+        "a2": "Le gel blanchissant agit sur la dent naturelle. Les restaurations ne changent pas de couleur, il peut donc être nécessaire d'en remplacer certaines pour harmoniser le résultat.",
+        "q3": "Que faire si j'ai de la sensibilité ?",
+        "a3": "Il est courant d'avoir une certaine sensibilité pendant ou après le traitement. Le dentiste peut recommander un gel désensibilisant et ajuster la concentration/durée."
+      },
+      "finalCta": {
+        "title": "Vous voulez un sourire plus blanc ?",
+        "text": "Prenez rendez-vous pour une évaluation afin de découvrir le meilleur type de blanchiment pour vous."
+      }
+    },
+    "odontopediatria": {
+      "title": "Quand emmener les enfants chez le dentiste ?",
+      "description": "Découvrez l'âge idéal pour la première consultation et comment préparer les plus petits à une expérience positive chez le dentiste.",
+      "toc": {
+        "idealAge": "Âge idéal",
+        "preparation": "Préparer la consultation",
+        "problems": "Problèmes courants",
+        "hygiene": "Hygiène par âge",
+        "frequency": "Fréquence des consultations",
+        "title": "Dans cet article",
+        "note": "Notre équipe est prête à accueillir les plus petits avec toute l'affection et l'attention nécessaires."
+      },
+      "category": "Odontopédiatrie",
+      "readTime": "4 min de lecture",
+      "lead": "La santé bucco-dentaire des enfants est fondamentale pour leur développement. Beaucoup de parents se demandent quand ils doivent emmener leurs enfants chez le dentiste pour la première fois et comment rendre cette expérience positive.",
+      "imageAlt": "Enfant chez le dentiste avec ses parents",
+      "ctaButton": "Prendre Rendez-vous",
+      "takeaways": {
+        "title": "Points clés",
+        "one": "Première consultation avant le 1er anniversaire",
+        "two": "Parlez positivement du dentiste",
+        "three": "Consultations régulières tous les 6 mois"
+      },
+      "idealAgeTitle": "Quel est l'âge idéal pour la première consultation ?",
+      "idealAgeText": "La première visite chez le dentiste doit avoir lieu à l'apparition de la première dent ou, au plus tard, avant le premier anniversaire de l'enfant. Cette consultation initiale est essentielle pour :",
+      "idealAge": {
+        "1": "Évaluer le développement des dents et des mâchoires",
+        "2": "Identifier précocement d'éventuels problèmes",
+        "3": "Guider les parents sur l'hygiène bucco-dentaire infantile",
+        "4": "Créer une relation positive entre l'enfant et le dentiste"
+      },
+      "preparationTitle": "Comment préparer l'enfant à la consultation ?",
+      "preparation": {
+        "beforeTitle": "Avant la consultation",
+        "before": {
+          "1": {
+            "title": "Parlez positivement :",
+            "text": "Évitez d'utiliser des mots comme \"douleur\" ou \"aiguille\""
+          },
+          "2": {
+            "title": "Lisez des livres :",
+            "text": "Il existe des histoires pour enfants sur les visites chez le dentiste"
+          },
+          "3": {
+            "title": "Jouez au dentiste :",
+            "text": "Simulez une consultation à la maison avec des poupées"
+          },
+          "4": {
+            "title": "Choisissez le bon moment :",
+            "text": "Préférez les moments où l'enfant est reposé"
+          }
+        },
+        "duringTitle": "Pendant la consultation",
+        "during": {
+          "1": "Restez calme et transmettez de la sécurité",
+          "2": "Laissez le dentiste communiquer directement avec l'enfant",
+          "3": "Évitez de faire des promesses de récompenses exagérées",
+          "4": "Félicitez le comportement de l'enfant après la consultation"
+        }
+      },
+      "problemsTitle": "Problèmes dentaires courants chez les enfants",
+      "problems": {
+        "bottle": {
+          "title": "Caries du biberon",
+          "text": "Elles surviennent lorsque l'enfant s'endort avec un biberon de lait ou de jus dans la bouche. Pour prévenir, nettoyez les dents après chaque tétée et évitez les boissons sucrées dans le biberon."
+        },
+        "thumb": {
+          "title": "Sucer son pouce",
+          "text": "C'est naturel dans les premières années, mais cela doit être découragé après 4 ans pour éviter des changements dans le positionnement des dents et le développement de l'arcade dentaire."
+        },
+        "trauma": {
+          "title": "Traumatismes dentaires",
+          "text": "Les chutes et les accidents sont fréquents pendant l'enfance. En cas de traumatisme dentaire, consultez immédiatement un dentiste, même s'il ne semble pas y avoir de dommages visibles."
+        }
+      },
+      "hygieneTitle": "Hygiène bucco-dentaire infantile par âge",
+      "hygiene": {
+        "0to2": {
+          "title": "0-2 ans",
+          "text": "Nettoyez les gencives avec une gaze humide. Lorsque les premières dents apparaissent, utilisez une brosse pour bébé avec de l'eau."
+        },
+        "2to6": {
+          "title": "2-6 ans",
+          "text": "Utilisez du dentifrice au fluor (quantité de la taille d'un petit pois). Les parents doivent superviser et aider au brossage."
+        },
+        "6plus": {
+          "title": "6+ ans",
+          "text": "L'enfant peut se brosser seul, mais les parents doivent vérifier. Introduisez l'utilisation du fil dentaire lorsque les dents commencent à se toucher."
+        }
+      },
+      "frequencyTitle": "À quelle fréquence aller chez le dentiste ?",
+      "frequencyText": "Après la première consultation, il est recommandé de consulter le dentiste tous les 6 mois pour des contrôles de routine. Cette fréquence permet de détecter et de traiter les problèmes précocement, lorsqu'ils sont plus faciles à résoudre.",
+      "finalCta": {
+        "title": "Est-ce le moment de la première consultation de votre enfant ?",
+        "text": "Notre équipe est prête à accueillir les plus petits avec toute l'affection et l'attention nécessaires."
+      }
+    }
+  },
+  "faq": {
+    "badge": "Questions Fréquemment Posées",
+    "tag": "FAQ",
+    "title": {
+      "before": "Questions",
+      "highlight": "Fréquentes"
+    },
+    "subtitle": "Trouvez des réponses aux questions les plus courantes sur nos services",
+    "description": "Trouvez des réponses aux doutes les plus courants sur nos services.",
+    "items": {
+      "hours": {
+        "q": "Quels sont les horaires d'ouverture ?",
+        "a": "Nous sommes ouverts du lundi au vendredi de 9h à 19h, et le samedi de 9h à 13h. Nous sommes fermés le dimanche et les jours fériés."
+      },
+      "appointment": {
+        "q": "Comment puis-je prendre rendez-vous ?",
+        "a": "Vous pouvez prendre rendez-vous via notre site web en cliquant sur 'Prendre Rendez-vous', en appelant notre numéro de téléphone ou en envoyant un message via WhatsApp. Nous parvenons généralement à fixer des rendez-vous dans les 48 heures."
+      },
+      "payments": {
+        "q": "Quels modes de paiement acceptez-vous ?",
+        "a": "Nous acceptons les espèces, les cartes bancaires, les cartes de crédit/débit (Visa, Mastercard), MB Way et les virements bancaires. Nous proposons également des facilités de paiement pour les traitements plus longs."
+      },
+      "insurance": {
+        "q": "Travaillez-vous avec des assurances santé ?",
+        "a": "Oui, nous travaillons avec les principales compagnies d'assurance au Portugal. Veuillez nous contacter avec les détails de votre assurance pour confirmer la couverture et les procédures."
+      },
+      "routine_duration": {
+        "q": "Combien de temps dure une consultation de routine ?",
+        "a": "Une consultation de routine (contrôle et nettoyage) dure généralement entre 45 et 60 minutes. Pour la première consultation, nous recommandons de prévoir environ 90 minutes pour inclure une évaluation complète et la planification."
+      },
+      "pain": {
+        "q": "Les traitements sont-ils douloureux ?",
+        "a": "Nous utilisons des techniques modernes d'anesthésie et de sédation pour garantir un confort maximal. La plupart de nos patients rapportent peu ou pas d'inconfort pendant les procédures. Nous priorisons votre bien-être dans tous les traitements."
+      },
+      "kids_first_visit": {
+        "q": "À partir de quel âge dois-je amener mon enfant chez le dentiste ?",
+        "a": "Nous recommandons la première visite chez le dentiste dès l'apparition de la première dent, ou au plus tard à l'âge d'un an. Des consultations précoces aident à établir de bonnes habitudes de santé bucco-dentaire et à prévenir de futurs problèmes."
+      },
+      "implant_duration": {
+        "q": "Combien de temps dure un traitement par implants ?",
+        "a": "Le processus complet prend généralement entre 3 et 6 mois, selon le cas. Cela comprend la pose de l'implant, la période de cicatrisation (ostéointégration) et la pose de la couronne définitive. Dans certains cas, nous pouvons proposer des solutions de mise en charge immédiate."
+      },
+      "whitening": {
+        "q": "Le blanchiment dentaire est-il sûr ?",
+        "a": "Oui, le blanchiment dentaire professionnel est tout à fait sûr lorsqu'il est réalisé par des professionnels qualifiés. Nous utilisons des produits approuvés et des techniques qui protègent l'émail et les gencives, offrant des résultats durables et sûrs."
+      },
+      "booking": {
+        "q": "Dois-je payer à l'avance pour réserver ?",
+        "a": "Aucun paiement anticipé n'est requis pour les consultations de routine. Pour les traitements plus complexes nécessitant une préparation spécifique, un acompte pourra être demandé. Nous vous informerons toujours à l'avance si c'est le cas."
+      }
+    },
+    "cta": {
+      "text": "Vous n'avez pas trouvé la réponse que vous cherchiez ?",
+      "button": "Contactez-nous"
+    }
+  },
+  "contact": {
+    "tag": "Contacts",
+    "title": "Venez",
+    "titleHighlight": "nous voir",
+    "description": "Profil fictif utilisé pour présenter le composant équipe. Il ne représente pas un professionnel réel.",
+    "info": {
+      "address": {
+        "title": "Adresse",
+        "content": "Adresse fictive — Portugal",
+        "action": "Voir sur la Carte"
+      },
+      "phone": {
+        "title": "Téléphone",
+        "content": "000 000 000",
+        "action": "Appeler Maintenant"
+      },
+      "email": {
+        "title": "E-mail",
+        "content": "contacto@example.invalid",
+        "action": "Envoyer un E-mail"
+      },
+      "schedule": {
+        "title": "Horaires",
+        "content": "Lun-Ven : 9h-19h | Sam : 9h-13h"
+      }
+    },
+    "cta": {
+      "title": "Prenez Votre Rendez-vous Aujourd'hui !",
+      "description": "N'attendez plus pour prendre soin de votre sourire. Notre équipe est prête à vous accueillir.",
+      "button": "Prendre Rendez-vous"
+    }
+  },
+  "footer": {
+    "description": "Nous prenons soin de votre sourire avec dévouement, une technologie moderne et des traitements personnalisés pour toute la famille.",
+    "quickLinks": "Liens Rapides",
+    "services": "Services",
+    "contacts": "Contacts",
+    "servicesList": {
+      "consultation": "Consultation Dentaire",
+      "orthodontics": "Orthodontie",
+      "implants": "Implants Dentaires",
+      "whitening": "Blanchiment",
+      "cleaning": "Détartrage"
+    },
+    "copyright": "Clinique Dentaire Equipa Horizonte. Tous droits réservés.",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation"
+  },
+  "floatingCTA": {
+    "button": "Prendre Rendez-vous Aujourd'hui !"
+  },
+  "whatsapp": {
+    "tooltip": "Discutez avec nous sur WhatsApp",
+    "message": "Bonjour ! 😊 Je viens du site et j'aimerais parler avec la clinique. Pouvez-vous me répondre ici pour m'aider à prendre rendez-vous et/ou recevoir des informations ?",
+    "cta": "Contactez-nous"
+  },
+  "notFound": {
+    "title": "404",
+    "message": "Oups ! Page non trouvée",
+    "backHome": "Retour à l'Accueil"
+  },
+  "emergencyButton": {
+    "tooltip": "Consultations Urgentes",
+    "ariaLabel": "Consultations Urgentes"
+  },
+  "music": {
+    "nowPlayingLabel": "Lecture en cours",
+    "volumeLabel": "Volume",
+    "chooseTrackLabel": "Choisir une musique",
+    "autoplayHint": "La musique démarre automatiquement au premier clic/tap sur le site.",
+    "controls": {
+      "play": "Lire",
+      "pause": "Pause",
+      "mute": "Muet",
+      "unmute": "Activer le son",
+      "menu": "Menu musique"
+    },
+    "toast": {
+      "open": "Ouvrir le lecteur",
+      "collapse": "Masquer le lecteur",
+      "currentTrack": "Musique actuelle"
+    },
+    "tracks": {
+      "t1": "Première Respiration",
+      "t2": "Confiance Sereine",
+      "t3": "Équilibre Naturel",
+      "t4": "Soin en Silence",
+      "t5": "Présence Légère",
+      "t6": "Bien-être Continu"
+    }
+  }
+}

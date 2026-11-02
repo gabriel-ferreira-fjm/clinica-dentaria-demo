@@ -1,0 +1,2 @@
+interface VideoPlayerProps { src: string; poster?: string; className?: string; trackSrc?: string; trackLang?: string; trackLabel?: string; showCaptionsByDefault?: boolean; }
+export default function VideoPlayer({className}:VideoPlayerProps) { return <figure className={className}><img src="/demo/visual.svg" alt="Conteúdo multimédia de demonstração" className="w-full rounded-2xl"/><figcaption className="mt-3 text-center text-sm">Demo · Vídeos e fotografias de clientes substituídos por ilustrações.</figcaption></figure>; }
